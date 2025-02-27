@@ -42,13 +42,13 @@
 
 ## **My progress 📈**
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,go,javascript,html,css" style="height: 48px;" />
-    </a>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,git,nodejs,windows,postgresql,vscode" style="height: 48px;" />
-    </a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/parzij/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=monokai&border_radius=10&hide_border=true&hide=prs,issues&custom_title=parzi" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10" />
+  </a>
 </div>
 
 ---
