@@ -47,4 +47,4 @@
 </div>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=282828&center=true&vCenter=true&width=700&height=100&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F%2C+see+you+later+%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=282828&center=true&vCenter=true&width=700&height=100&lines=See+you+later+%F0%9F%91%80)](https://git.io/typing-svg)
