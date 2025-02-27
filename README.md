@@ -39,10 +39,15 @@
 
 ## **My progress 📈**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=monokai&border_radius=10&hide_border=true)](https://github.com/parzij/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/parzij/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=monokai&border_radius=10&hide_border=true&hide=prs,issues" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10" />
+  </a>
+</div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=282828&center=true&vCenter=true&width=700&height=100&lines=See+you+later+%F0%9F%91%80)](https://git.io/typing-svg)
