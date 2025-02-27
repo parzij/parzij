@@ -41,9 +41,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=parzij&theme=monokai&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=200)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=282828&center=true&vCenter=true&width=700&height=100&lines=See+you+later+%F0%9F%91%80)](https://git.io/typing-svg)
