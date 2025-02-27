@@ -39,7 +39,8 @@
 
 ## **My progress 📈**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=dracula)](https://github.com/parzij/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=monokai&border_radius=10&hide_border=true)](https://github.com/parzij/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
