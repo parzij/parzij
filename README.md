@@ -31,24 +31,26 @@
 
 ## **Follow me 🌎**
 
-1️⃣ [![Codewars](https://img.shields.io/badge/Codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/parzij)
-2️⃣ [![Telegram](https://img.shields.io/badge/Telegram-%2300A2E8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/parzij)
+1️⃣ [![Codewars](https://img.shields.io/badge/Codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/parzij)  
+<br>
+2️⃣ [![Telegram](https://img.shields.io/badge/Telegram-%2300A2E8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/parzij)  
+<br>
 3️⃣ [![VK](https://img.shields.io/badge/VK-%23009CFF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/parziii)
+
 
 ---
 
 ## **My progress 📈**
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <a href="https://github.com/parzij/github-readme-stats" style="flex-grow: 1; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=monokai&border_radius=10&hide_border=true&hide=prs,issues&custom_title=parzi" style="height: 180px; max-height: 100%; width: auto;" />
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/parzij/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=monokai&border_radius=10&hide_border=true&hide=prs,issues&custom_title=parzi" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-grow: 1; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10" style="height: 180px; max-height: 100%; width: auto;" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10" />
   </a>
 </div>
 
 
 ---
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=545454&center=true&vCenter=true&width=700&height=100&lines=See+you+later+%F0%9F%91%80)](https://git.io/typing-svg)
