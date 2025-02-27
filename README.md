@@ -40,20 +40,10 @@
 ## **My progress 📈**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=parzij&theme=monokai&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=200)](https://git.io/streak-stats)
-## Статистика по используемым языкам программирования
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br>
-<div align="center">
-    <img width="390" src="https://streak-stats.demolab.com/?user=parzij&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width="390" src="https://github-readme-stats-parzij.vercel.app/api?username=parzij&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-    <br/>
-    <img width="325" align="center" src="https://github-readme-stats-parzij.vercel.app/api/top-langs/?
-    username=parzij&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
-</div>
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=282828&center=true&vCenter=true&width=700&height=100&lines=See+you+later+%F0%9F%91%80)](https://git.io/typing-svg)
