@@ -31,22 +31,23 @@
 
 ## **Follow me 🌎**
 
-[![Codewars](https://img.shields.io/badge/Codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/parzij)
-[![Telegram](https://img.shields.io/badge/Telegram-%2300A2E8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/parzij)
-[![VK](https://img.shields.io/badge/VK-%23009CFF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/parziii)
+1️⃣ [![Codewars](https://img.shields.io/badge/Codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/parzij)
+2️⃣ [![Telegram](https://img.shields.io/badge/Telegram-%2300A2E8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/parzij)
+3️⃣ [![VK](https://img.shields.io/badge/VK-%23009CFF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/parziii)
 
 ---
 
 ## **My progress 📈**
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/parzij/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=monokai&border_radius=10&hide_border=true&hide=prs,issues&custom_title=parzi" style="height: 180px;" />
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <a href="https://github.com/parzij/github-readme-stats" style="flex-grow: 1; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=monokai&border_radius=10&hide_border=true&hide=prs,issues&custom_title=parzi" style="height: 180px; max-height: 100%; width: auto;" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10" style="height: 180px;" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-grow: 1; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10" style="height: 180px; max-height: 100%; width: auto;" />
   </a>
 </div>
+
 
 ---
 
