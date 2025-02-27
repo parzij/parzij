@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=parzij&color=blue&style=for-the-badge)
 
-## **About me**
+## **About me 🧑🏽‍💻**
 
 - 🎓 Student of the Southern Federal University in Taganrog
 - 🦾 configured to work without "BUT"
@@ -29,7 +29,7 @@
 
 ---
 
-## **Follow me 🌐**
+## **Follow me 🌎**
 
 - [![Codewars](https://img.shields.io/badge/Codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/parzij)
 - [![Telegram](https://img.shields.io/badge/Telegram-%2300A2E8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/parzij)
@@ -38,6 +38,13 @@
 ---
 
 ## **My progress 📈**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=parzij&theme=monokai&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=200)](https://git.io/streak-stats)
+## Статистика по используемым языкам программирования
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <br>
 <div align="center">
