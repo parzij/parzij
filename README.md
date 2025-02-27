@@ -39,7 +39,13 @@
 
 ## **My progress 📈**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=parzij)](https://git.io/streak-stats)
+## Статистика по коммитам
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=parzij&theme=monokai&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=200)](https://git.io/streak-stats)
+
+[![Commits Count](https://badgen.net/github/commits/parzij)](https://github.com/parzij)
+[![Max Streak](https://badgen.net/github/streaks/parzij)](https://github.com/parzij)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
