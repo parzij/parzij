@@ -31,11 +31,11 @@
 
 ## **Follow me 🌎**
 
-1️⃣ [![Codewars](https://img.shields.io/badge/Codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/parzij)  
+[![Codewars](https://img.shields.io/badge/Codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/parzij)  
 <br>
-2️⃣ [![Telegram](https://img.shields.io/badge/Telegram-%2300A2E8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/parzij)  
+[![Telegram](https://img.shields.io/badge/Telegram-%2300A2E8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/parzij)  
 <br>
-3️⃣ [![VK](https://img.shields.io/badge/VK-%23009CFF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/parziii)
+[![VK](https://img.shields.io/badge/VK-%23009CFF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/parziii)
 
 
 ---
