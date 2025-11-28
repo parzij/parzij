@@ -43,21 +43,6 @@
 
 ## **My progress 📈**
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/parzij">
-        <img src="https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=monokai&border_radius=10&hide_border=true&hide=prs,issues&custom_title=parzij%20stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzij&layout=compact&langs_count=5&theme=monokai&hide_border=true&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <p align="left">
   <a href="https://github.com/parzij">
     <img src="https://github-readme-stats.vercel.app/api?username=parzij&show_icons=true&theme=monokai&border_radius=10&hide_border=true&hide=prs,issues&custom_title=parzij%20stats" />
