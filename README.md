@@ -3,7 +3,7 @@
 ## **About me 🧑🏽‍💻**
 
 - 🎓 Student of the Southern Federal University
-- 💾 backend developer
+- 💾 Backend developer
 - 🏀 I love playing basketball
 - 🏎️ Formula 1 enthusiast
 
@@ -13,11 +13,11 @@
 
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,go,python,sql" />
+        <img src="https://skillicons.dev/icons?i=go,python,c,cpp,sql" />
     </a>
     <br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,linux,neovim,docker,postgres,redis,postman" />
+        <img src="https://skillicons.dev/icons?i=arch,git,neovim,docker,postgres,redis,postman" />
     </a>
 </div>
 
@@ -26,6 +26,15 @@
 ## **My GitHub Space Shooter 🚀**
 
 ![GitHub Space Shooter](game.gif)
+
+---
+
+## 🚀 Featured Projects
+
+**Groupeak Backend**  
+Мобильное приложение для командной работы и управления проектами. Полноценный бэкенд платформы, где команды могут ставить задачи, контролировать сроки, вести календарь и обмениваться обновлениями в реальном времени.
+
+[→ Посмотреть репозиторий](https://github.com/parzij/groupeak-backend)
 
 ---
 
