@@ -31,10 +31,11 @@
 
 ## 🚀 Featured Projects
 
-**Groupeak Backend**  
-Мобильное приложение для командной работы и управления проектами. Полноценный бэкенд платформы, где команды могут ставить задачи, контролировать сроки, вести календарь и обмениваться обновлениями в реальном времени.
+### Parzij Hyprland Rice
 
-[→ Посмотреть репозиторий](https://github.com/parzij/groupeak-backend)
+My daily-driver Arch Linux desktop featuring a dynamic Waybar island, custom Hyprlock/SDDM themes and a safe installer.
+
+[View repository](https://github.com/parzij/ArchLinux-setup)
 
 ---
 
